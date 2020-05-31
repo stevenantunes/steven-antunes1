@@ -3,14 +3,13 @@ img{
     margin: 0 auto;
     padding: 40px;
 }
+
 h1{
     font-size: 55px;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
-    
 }
-
 
 h3{ 
     text-align: center;
@@ -53,11 +52,10 @@ background-image: url(images/background.jpg);
  aside{
    color:white;
     }
-  a{
+a{
       color: white;
   }
 
 ul{
     color: white;
 }
-  }
